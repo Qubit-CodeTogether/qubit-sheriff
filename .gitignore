@@ -1,0 +1,7 @@
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore directory for dependencies
+node_modules/
+
+.env
